@@ -4,8 +4,6 @@
 <p align="center">
   <a href = "https://www.youtube.com/watch?v=UIp6_0kct_U">
     <img src = "https://pixiv.pximg.net/c/1200x630_90_a2_g5/fanbox/public/images/post/1725296/cover/KbQJ1Eyc3A541ySICuBLMAfm.jpeg" width = "700px"/>
-    <h2 align = "center"> A Personal Webnovel</h2>
-    <img src = "https://pixiv.pximg.net/c/1200x630_90_a2_g5/fanbox/public/images/post/1725296/cover/KbQJ1Eyc3A541ySICuBLMAfm.jpeg" width = "740px"/>
   </a>
   <h2 align = "center"> A Personal Webnovel</h2>
 </p>
