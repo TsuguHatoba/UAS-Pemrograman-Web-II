@@ -27,7 +27,7 @@
 		</nav>
 	<div class="text-box">
 		<h1>Text bagian 1</h1>
-		<p>deskripsi bagian 1 bla bla bla</p>
+		<p>deskripsi bagian 1 awu wu wu</p>
 		<a href="" class="hero-btn">Bikin Novel</a>
 	</div>
 	</section>
