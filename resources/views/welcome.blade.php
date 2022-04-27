@@ -26,7 +26,7 @@
 			<i class="fa fa-bars" onclick="showMenu()"></i>
 		</nav>
 	<div class="text-box">
-		<h1>Text bagian 1</h1>
+		<h1>Test Jole Love Ambar Tapi Boong</h1>
 		<p>deskripsi bagian 1 awu wu wu</p>
 		<a href="" class="hero-btn">Bikin Novel</a>
 	</div>
