@@ -17,10 +17,10 @@
 				<i class="fa fa-times" onclick="hideMenu()"></i>
 				<ul>
 					<li><a href="">HOME</a></li>
+					<li><a href="">NOVEL</a></li>
+					<li><a href="">GENRE</a></li>
+					<li><a href="">POPULAR</a></li>
 					<li><a href="">ABOUT</a></li>
-					<li><a href="">COURSE</a></li>
-					<li><a href="">BLOG</a></li>
-					<li><a href="">CONTACT</a></li>
 				</ul>
 			</div>
 			<i class="fa fa-bars" onclick="showMenu()"></i>
@@ -28,7 +28,7 @@
 	<div class="text-box">
 		<h1>Text bagian 1</h1>
 		<p>deskripsi bagian 1 bla bla bla</p>
-		<a href="" class="hero-btn">text gambar 1</a>
+		<a href="" class="hero-btn">Bikin Novel</a>
 	</div>
 	</section>
 <!------JavaScript for Toggle Menu----->
